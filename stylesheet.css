@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(251,251,251);
+}
+ p{
+     color: rgb(100,100,100);
+ }
+    #content {
+    margin:auto;
+    width: 70%;
+    position: relative;
+}
+
+.headr {
+    width: 70%;
+    /*Height: 50px;*/
+    position: relative;
+    margin:auto;
+    padding:0px;
+}
+
+#contact {
+    
+    position: relative;
+    border-top: 2px solid rgb(230,230,230);
+    /*margin:2px;*/
+     margin:auto;
+    overflow: visible;
+    padding-left: 5px;
+    width: 70%;
+
+    
+}
+
+.row {
+    position: relative;
+}
+
+.left {
+    width: 25%;
+    margin:5px;
+    text-align: right;
+    position: absolute;
+
+}
+.left2 {
+    width: 25%;
+    margin:5px;
+    text-align: right;
+}
+
+.right {
+    width: 70%;
+    border-left: 3px solid rgb(230,230,230);
+    margin:5px 5px 5px 27%;
+    padding-left: 15px;
+    position: relative;
+}
+
+.right2 {
+    width: 70%;
+    border-left: 3px solid rgb(230,230,230);
+    margin:5px 5px 5px 27%;
+    padding-left: 15px;
+    position: absolute;
+    top: 5px;
+}
+
+#img {
+    transform: rotate(-7deg);
+    border: 5px solid white;
+    margin: 2px;
+    position:relative;
+    right: 0;
+    box-shadow: 5px 5px 3px rgb(220,220,220);
+}
+
+
+
+#cell {
+    border-bottom:-15px;
+}
+#email {
+    border-bottom: -15px;
+}
+#about {
+    margin:2px;
+    position: relative;
+    left:0px;
+    width: 65%;
+ 
+    
+}
+div span {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
